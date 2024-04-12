@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#FFFFFF;stroke-width:0.4044;stroke-miterlimit:10;}
+	.st1{stroke:#FFFFFF;stroke-width:1.095;stroke-miterlimit:10;}
+	.st2{stroke:#FFFFFF;stroke-width:1.6403;stroke-miterlimit:10;}
+	.st3{fill:#231F20;stroke:#FFFFFF;stroke-width:0.505;stroke-miterlimit:10;}
+	.st4{stroke:#FFFFFF;stroke-width:2.0876;stroke-miterlimit:10;}
+	.st5{font-family:'ClassicaPro-Regular';}
+	.st6{font-size:84.6515px;}
+	.st7{letter-spacing:8;}
+	.st8{fill:none;stroke:#000000;stroke-width:3.4424;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Sun">
+	<path class="st0" d="M203.24,153.89c0-15.2-12.32-27.53-27.53-27.53c-15.2,0-27.53,12.32-27.53,27.53H203.24z"/>
+</g>
+<g id="Ocean">
+	<path d="M95.2,157.6h243.89c23.28,1.29,50.54,3.95,58.95,9.37v14.21c-0.8,10.32-302.84,42.31-302.84,42.31"/>
+</g>
+<g id="Mountains">
+	<path class="st1" d="M301.97,154.39c0,0,11.65-16.68,37.58-18.58c25.94-1.89,40.76-13.87,40.76-13.87s7.98-13.96,19.34-7.08v39.53
+		H301.97z"/>
+</g>
+<g id="column">
+	<g>
+		<polygon class="st2" points="308.27,214.92 313.36,112.93 279,112.93 284.09,214.92 		"/>
+	</g>
+	<rect x="274.69" y="107.66" class="st2" width="45.66" height="4.65"/>
+	<path class="st2" d="M274.69,106.85c0,0-27.2-10.47,0-10.47h45.66c27.2,0,0,10.47,0,10.47"/>
+	<rect x="273.39" y="217.09" class="st2" width="46.25" height="4.65"/>
+	<rect x="259.91" y="222.99" class="st2" width="72.98" height="6.8"/>
+	<path class="st3" d="M369.38,278.32"/>
+	<polygon class="st4" points="260.86,229.34 335.18,229.34 339.16,234.68 263.76,234.68 	"/>
+	<polygon points="290.83,234.68 313.36,266.09 395.21,266.09 322.19,234.68 	"/>
+</g>
+<g id="Crete">
+	<text transform="matrix(1 0 0 1.09 91.4457 354.2304)" class="st5 st6 st7">Crete</text>
+	<line class="st8" x1="95.17" y1="267.83" x2="395.21" y2="267.83"/>
+	<line class="st8" x1="95.17" y1="374.94" x2="395.21" y2="374.94"/>
+</g>
+</svg>

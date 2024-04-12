@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 114.41" style="enable-background:new 0 0 200 114.41;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'OfeliaDisplay-Bold';}
+	.st2{font-size:57.1429px;}
+	.st3{fill:#FFFFFF;stroke:#999999;stroke-width:0.7937;stroke-miterlimit:10;}
+</style>
+<rect id="bg" y="0.12" width="200" height="114.29"/>
+<g id="ap">
+	<g>
+		<path class="st0" d="M102.44,59.84H83.78l-6.74,6.97H61.54l41.03-43.26h9.74v35.97h-9.87V59.84z M102.09,39.42L89.3,51.43h12.79
+			V39.42z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 98.0073 94.2852)" class="st0 st1 st2">P</text>
+</g>
+<g id="score-lines">
+	<line class="st3" x1="102.57" y1="23.55" x2="126.78" y2="-0.66"/>
+	<line class="st3" x1="112.31" y1="23.55" x2="135.75" y2="0.1"/>
+	<line class="st3" x1="61.54" y1="66.81" x2="14.3" y2="114.05"/>
+	<line class="st3" x1="77.04" y1="66.81" x2="29.92" y2="113.93"/>
+	<line class="st3" x1="102.57" y1="23.55" x2="102.57" y2="0.12"/>
+	<line class="st3" x1="102.18" y1="94.28" x2="102.18" y2="114.41"/>
+	<line class="st3" x1="112.31" y1="23.55" x2="112.31" y2="0.12"/>
+	<line class="st3" x1="112.29" y1="94.28" x2="112.29" y2="114.41"/>
+	<line class="st3" x1="102.18" y1="94.28" x2="0" y2="94.28"/>
+	<line class="st3" x1="112.29" y1="94.28" x2="200" y2="94.28"/>
+	<line class="st3" x1="112.29" y1="83.95" x2="200" y2="83.95"/>
+	<line class="st3" x1="102.57" y1="23.55" x2="0" y2="23.55"/>
+	<line class="st3" x1="112.31" y1="23.55" x2="200" y2="23.55"/>
+	<line class="st3" x1="61.54" y1="66.81" x2="61.54" y2="0.12"/>
+	<line class="st3" x1="61.54" y1="66.81" x2="61.54" y2="114.41"/>
+	<line class="st3" x1="136.87" y1="67.08" x2="136.87" y2="0.12"/>
+	<line class="st3" x1="136.87" y1="67.08" x2="136.87" y2="114.41"/>
+	<line class="st3" x1="112.31" y1="51.43" x2="200" y2="51.43"/>
+	<line class="st3" x1="76.08" y1="51.44" x2="0.47" y2="51.44"/>
+	<line class="st3" x1="68.17" y1="59.84" x2="0.47" y2="59.84"/>
+	<line class="st3" x1="135.07" y1="59.84" x2="200" y2="59.84"/>
+	<line class="st3" x1="102.18" y1="66.81" x2="0" y2="66.81"/>
+</g>
+</svg>
