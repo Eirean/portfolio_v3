@@ -294,7 +294,7 @@ img {
     .project-list {
         padding: var(--space-unit);
         display: grid;
-        grid-template-columns: repeat(12, 12fr);
+        grid-template-columns: repeat(12, 1fr);
     }
 
     .project-list li span {
@@ -316,15 +316,15 @@ img {
 
     .project-list img {
         display: block;
-        width: 100%;
+        width: auto;
         height: 100%;
-        object-fit: cover;
+        /* object-fit: contain; */
     }
 
     .project-list li:nth-child(1) {
         /* border: 10px solid red; */
         grid-column-start: 2;
-        grid-column-end: 5;
+        grid-column-end: 6;
         grid-row-start: 1;
         grid-row-end: 4;
     }
