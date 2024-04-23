@@ -418,6 +418,24 @@ img {
     color: rgba(241, 217, 184, 0.61);
 }
 
+/* BAR35 PAGE */
+
+.page-bar35 .hero-text {
+    background-image: url(images/bar35_tab.jpg);
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+    border: 1px solid red;
+}
+
+.page-bar35 .hero-text p {
+    color: rgb(241, 217, 184, 0.61);
+}
+
+.page-bar35 .style h3 {
+    text-align: center;
+}
+
 /* FOSTER PAGE */
 
 /* CAROUSEL */
