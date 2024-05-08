@@ -244,6 +244,7 @@ img {
 
 .site-footer {
     display: flex;
+    align-items: center;
     justify-content: space-between;
     background-color: black;
     padding: 3em var(--space-unit);
@@ -255,6 +256,14 @@ img {
     font-size: 2vw;
 }
 
+.site-footer h2 {
+    font-family: "ofelia-display", sans-serif;
+}
+
+.site-footer p {
+    font-family: "ofelia-display", sans-serif;
+}
+
 .site-footer ul {
     padding: 1em;
     font-size: 1vw;
@@ -262,7 +271,11 @@ img {
 }
 
 .site-footer image {
-    background-image: url(images/logo_card.svg);
+    background-image: url(images/footer_logo.jpg);
+    width: 100%;
+    height: 50%;
+    max-width: none;
+    object-fit: cover;
 }
 
 /* PROJECT LIST */
