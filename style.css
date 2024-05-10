@@ -247,7 +247,7 @@ img {
     align-items: center;
     justify-content: space-between;
     background-color: black;
-    padding: 3em var(--space-unit);
+    padding: 3em;
     color: aliceblue;
 }
 
@@ -258,6 +258,7 @@ img {
 
 .site-footer h2 {
     font-family: "ofelia-display", sans-serif;
+    padding-right: 3em;
 }
 
 .site-footer p {
