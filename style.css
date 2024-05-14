@@ -133,7 +133,7 @@ img {
     max-width: 1200px;
     /* background-color: pink; */
     margin: 0 auto;
-    padding: 7em;
+    padding: 7em 2em;
 }
 
 /* GRID */
@@ -251,6 +251,15 @@ img {
     color: aliceblue;
 }
 
+.site-footer a {
+    color: aliceblue;
+}
+
+.site-footer a:hover {
+    color: aliceblue;
+    text-decoration: underline;
+}
+
 .site-footer h1 {
     padding: 1em;
     font-size: 2vw;
@@ -259,6 +268,11 @@ img {
 .site-footer h2 {
     font-family: "ofelia-display", sans-serif;
     padding-right: 3em;
+}
+
+.site-footer-top {
+    font-family: "ofelia-display", sans-serif;
+    padding-bottom: 6em;
 }
 
 .site-footer p {
@@ -299,6 +313,10 @@ img {
     text-align: center;
     display: block;
     padding-bottom: 1em;
+}
+
+.project-list img {
+    width: 100%;
 }
 
 @media (min-width: 768px) {
@@ -374,6 +392,15 @@ img {
         grid-row-start: 11;
         grid-row-end: 14;
     }
+
+    .project-list li:nth-child(6) {
+        /* border: 10px solid red; */
+        grid-column-start: 5;
+        grid-column-end: 8;
+        grid-row-start: 14;
+        grid-row-end: 17;
+    }
+
 }
 
 /* PAGES */
@@ -448,6 +475,25 @@ img {
 
 .page-bar35 .style h3 {
     text-align: center;
+}
+
+/* ALBUMS */
+
+.page-album .hero-text {
+    background-image: url(images/dual_album_covers_extension.jpg);
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+
+}
+
+.page-album .hero-text p {
+    color: rgba(0, 0, 0, 0.61);
+}
+
+.page-album .hero-text h1 {
+    color: rgba(0, 0, 0, 0.61);
+    /* border: 1px solid red; */
 }
 
 /* FOSTER PAGE */
@@ -617,6 +663,10 @@ img {
 
 .animate-me-on-scroll.shimmy-up[data-sectionstate="active"]>*:nth-child(3) {
     transition-delay: .4s;
+}
+
+.animate-me-on-scroll.shimmy-up[data-sectionstate="active"]>*:nth-child(4) {
+    transition-delay: .6s;
 }
 
 /* ANIMATE ON SCROLL FADE IN */
