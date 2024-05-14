@@ -13,3 +13,4 @@ const myobserver = new IntersectionObserver((entries) => {
 document.querySelectorAll(".animate-me-on-scroll").forEach((section) => {
     myobserver.observe(section);
 });
+
