@@ -462,10 +462,11 @@ img {
 /* BAR35 PAGE */
 
 .page-bar35 .hero-text {
-    background-image: url(images/bar35_tab.jpg);
+    background-image: url(images/bar_35neon.jpg);
     background-size: cover;
     background-position: center center;
     color: #ffffff;
+
 
 }
 
