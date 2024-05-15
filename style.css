@@ -566,6 +566,15 @@ ul.slides input {
     /* width: auto; */
     max-width: 100%;
     height: auto;
+    height: 100%;
+    object-fit: contain;
+}
+
+/* BAND AID */
+@media (max-width: 767px) {
+    .slide-image img {
+        max-width: 50%;
+    }
 }
 
 .carousel-controls {
